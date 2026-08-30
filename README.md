@@ -1,9 +1,9 @@
-# SmartSplit 🚀
+# SmartSplit 
 
 **Frictionless Local-First Peer Expense Tracker for Students**
 
 ## Problem Statement
-Students frequently manage shared group expenses with uneven splits (auto rides, subscriptions, food bills, printouts). Existing platforms require signups, cloud sync, and complex onboarding. SmartSplit solves this locally, offline-first.
+Students frequently manage shared group expenses with uneven splits (auto rides, subscriptions, food bills, printouts). Existing platforms require signups, cloud sync, and complex onboarding. SmartSplit solves this locally, offline-first. Made for GDG recruitments ROUND 2.
 
 ## Features ✨
 
@@ -55,33 +55,61 @@ flutter run -d chrome --web-port=5000
 ## Project Structure
 
 lib/
+
 ├── main.dart # App entry
+
 ├── models/
+
 │ ├── enums.dart # SplitType, ExpenseCategory
+
 │ ├── expense.dart # Expense model
+
 │ ├── group_member.dart # GroupMember model
+
 │ └── currency.dart # Currency support
+
 ├── providers/
+
 │ ├── expense_provider.dart
+
 │ ├── group_provider.dart
+
 │ ├── currency_provider.dart
+
 │ └── theme_provider.dart
+
 ├── services/
+
 │ ├── hive_service.dart # Persistence
+
 │ └── settlement_calculator.dart # Debt math
+
 ├── screens/
+
 │ ├── home_screen.dart
+
 │ ├── add_expense_screen.dart
+
 │ ├── expense_details_modal.dart
+
 │ ├── manage_group_screen.dart
+
 │ ├── analytics_screen.dart
+
 │ └── settings_screen.dart
+
 ├── widgets/
+
 │ ├── dashboard_tab.dart
+
 │ ├── activity_tab.dart
+
 │ └── settlement_tab.dart
+
 └── utils/
+
 ├── validators.dart
+
 └── split_calculator.dart
 
 
@@ -125,6 +153,8 @@ Output: A → C: 100, B → C: 50 (2 transactions vs 3)
 
 ## Author
 Jaagriti Mandal — GDG App Dev Round 2 Submission
+
+## Images
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
