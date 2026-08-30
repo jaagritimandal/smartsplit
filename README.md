@@ -1,3 +1,4 @@
+
 # SmartSplit 
 
 **Frictionless Local-First Peer Expense Tracker for Students**
@@ -5,7 +6,7 @@
 ## Problem Statement
 Students frequently manage shared group expenses with uneven splits (auto rides, subscriptions, food bills, printouts). Existing platforms require signups, cloud sync, and complex onboarding. SmartSplit solves this locally, offline-first. Made for GDG recruitments ROUND 2.
 
-## Features ✨
+## Features 
 
 ### Phase 1 (Completed)
 - ✅ Equal distribution splits
@@ -156,21 +157,29 @@ Jaagriti Mandal — GDG App Dev Round 2 Submission
 
 ## Images
 
-![alt text](image-1.png)
+DASHBOARD
+<img width="1919" height="1020" alt="Screenshot 2026-08-30 123539" src="https://github.com/user-attachments/assets/e383787d-38bb-4aff-82c2-c6ad79a586b8" />
 
-![alt text](image-2.png)
+ACTIVITY
+<img width="1919" height="1018" alt="Screenshot 2026-08-30 123533" src="https://github.com/user-attachments/assets/1d104c98-a851-46b2-895e-bc02f8d25cfa" />
 
-![alt text](image-3.png)
+CLICK ON EACH EXPENSE
+<img width="1919" height="1019" alt="Screenshot 2026-08-30 123546" src="https://github.com/user-attachments/assets/401c9058-45bd-4a6e-88db-902c5e2bd180" />
 
-![alt text](image-4.png)
+SETTLE
+<img width="1915" height="1020" alt="Screenshot 2026-08-30 123553" src="https://github.com/user-attachments/assets/bc6dd169-4feb-447b-b313-323916a97c9c" />
 
-![alt text](image-5.png)
+SETTINGS - DARK MODE
+<img width="1919" height="1021" alt="Screenshot 2026-08-30 123603" src="https://github.com/user-attachments/assets/b3fdb551-d94e-4165-9b1c-cde3d762f42f" />
 
-![alt text](image-6.png)
+ANALYTICS-1
+<img width="1919" height="1023" alt="Screenshot 2026-08-30 123611" src="https://github.com/user-attachments/assets/0077648c-eb04-43c4-9991-fa38118c1bd2" />
 
-![alt text](image-7.png)
+ANALYTICS-2
+<img width="1919" height="1020" alt="Screenshot 2026-08-30 123617" src="https://github.com/user-attachments/assets/21bf4a76-3f0c-4ced-aef1-e6ff3da702d9" />
 
-![alt text](image-8.png)
+
+
 
 
 
